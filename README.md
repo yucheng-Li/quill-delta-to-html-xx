@@ -11,12 +11,12 @@ You can try a live demo of the conversion by opening the `demo-browser.html` fil
 
 Installation
 ```
-npm install quill-delta-to-html-xp
+npm install quill-delta-to-html-xx
 ```
 
 Usage
 ```javascript
-var QuillDeltaToHtmlConverter = require('quill-delta-to-html-xp').QuillDeltaToHtmlConverter;
+var QuillDeltaToHtmlConverter = require('quill-delta-to-html-xx').QuillDeltaToHtmlConverter;
 
 // TypeScript / ES6:
 // import { QuillDeltaToHtmlConverter } from 'quill-delta-to-html'; 
